@@ -8,5 +8,5 @@ Here you can find the scripts created during the course. (I started this repo on
 
 Each folder has a "homework.R" script and a Rscript.r script. Rscript is the script created during the course. The other is the homework due for the week.
 
-Enjoy ;)
+# Enjoy ;)
 Yipfram
